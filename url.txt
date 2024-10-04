@@ -1,2 +1,2 @@
 localhost: http://localhost:8501/
-deploy:
+deploy: https://kyunisoo-submission-dashboardproyek-analisi-data-luethu.streamlit.app/
